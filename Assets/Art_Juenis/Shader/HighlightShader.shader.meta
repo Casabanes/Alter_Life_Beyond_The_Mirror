@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3bfb161e2720b0b469ce443ad553d7d9
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _TextureSample0: {fileID: 2800000, guid: c753d52eed54dd643a0d395a12b047d6, type: 3}
+  - _123592787seamlesspatternthecrackstexturewhiteandblackvectorbackgroundmosaicvector1: {fileID: 2800000, guid: 336ccac88ee14cf4b918a92d888eadbf, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

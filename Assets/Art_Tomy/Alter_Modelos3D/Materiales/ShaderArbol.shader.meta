@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 568305cc5d14b3c418c7a9d013b72325
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _ArbolVar1_lambert1_BaseColor: {fileID: 2800000, guid: 3fcfc9bd2dd57ab4a813da73b7bbf84a, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

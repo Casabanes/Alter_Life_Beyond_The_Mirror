@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Scattering
+  m_Shader: {fileID: 4800000, guid: 206e85c02a1554a419cd0ca14956abe7, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaHoja1:
+        m_Texture: {fileID: 2800000, guid: 62a2de41c4573634c83830adf5f93507, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GradientHojas:
+        m_Texture: {fileID: 2800000, guid: b1ab886cea0442e42a7c856acd62a1c7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 53cec5e1d5fd8ac49b455312c5e75faa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Float0: -0.47
+    - _Float1: -5.9
+    - _Float2: -0.95
+    - _Float5: 1.19
+    - __dirty: 0
+    m_Colors:
+    - _Color0: {r: 0.29723722, g: 0.4811321, b: 0.23829655, a: 0}
+    - _Color1: {r: 0.5048218, g: 0.8867924, b: 0.09620863, a: 0}
+  m_BuildTextureStacks: []

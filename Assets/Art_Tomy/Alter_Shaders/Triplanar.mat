@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Triplanar
+  m_Shader: {fileID: 4800000, guid: 829bafd0f6cbac648a846938b5ae764a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: bfdf21dfd9644b04f9ea784429b34902, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: c3808222aea4b604980df2295c4817a1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: 3ffc606398ca9a64cadd981b6bb242e3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Dir: 0.34
+    - _Float0: 0
+    - _Float2: 2.63
+    - _Smooth: -0.31
+    - _SpeckSize: 2
+    - __dirty: 0
+    m_Colors:
+    - _Arena: {r: 0.2830189, g: 0.26099148, b: 0.23896407, a: 0}
+    - _Color0: {r: 0.3773585, g: 0.26572263, b: 0.17621928, a: 0}
+    - _Dir: {r: 0, g: 0.11, b: 0, a: 0}
+  m_BuildTextureStacks: []

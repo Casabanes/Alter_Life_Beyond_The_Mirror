@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 8a67a6d63336a9b4bb31647396a1b5c9
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _BigGrass1_lambert1_BaseColor: {fileID: 2800000, guid: 61fa4dbd3c8c2c04f898429a9a51fdb0, type: 3}
+  - _MaskGrassShader: {fileID: 2800000, guid: 2ee0358c56a175e4ca17c44ad0cb4491, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
